@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d81b60</color>
+    <color name="colorPrimaryDark">#a00037</color>
+    <color name="colorAccent">#ff5c8d</color>
+    <color name="colorWhite">#FFFF</color>
+
+        <color name="white">#FFFFFF</color>
+        <color name="darken">#333333</color>
+        <color name="cloud">#f9f9f9</color>
+        <color name="silver">#BDC3C7</color>
+
+        <array name="course_table">
+            <item>#ffccbc</item>
+            <item>#ffe0b2</item>
+            <item>#ffecb3</item>
+            <item>#fff9c4</item>
+            <item>#f0f4c3</item>
+            <item>#dcedc8</item>
+            <item>#c8e6c9</item>
+            <item>#b2dfdb</item>
+            <item>#b3e5fc</item>
+            <item>#bbdefb</item>
+            <item>#e1bee7</item>
+            <item>#f8bbd0</item>
+            <item>#ffcdd2</item>
+        </array>
+
+    <string-array name="colors" translatable="false">
+        <item>#99cc00</item>
+        <item>#33b5e5</item>
+        <item>#0099cc</item>
+        <item>#547bca</item>
+        <item>#aa66cc</item>
+        <item>#9933cc</item>
+        <item>#669900</item>
+        <item>#aeb857</item>
+        <item>#cc0000</item>
+        <item>#df5948</item>
+        <item>#ff4444</item>
+        <item>#ae6b23</item>
+        <item>#ff8800</item>
+        <item>#e5ae4f</item>
+        <item>#ffbb33</item>
+        <item>#cccccc</item>
+        <item>#888888</item>
+    </string-array>
+</resources>
